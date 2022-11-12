@@ -1,5 +1,3 @@
 # shiny-invention
 
-def val(x):
-  print("The value is", x)
-  return
+The President of the United States uses [Twitter Blue]. What a [Sussy Baka].
