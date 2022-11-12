@@ -1,8 +1,9 @@
 # shiny-invention
 
-The President of the United States uses [Twitter Blue]. What a [Sussy Baka].
+The President of the United States uses {Twitter Blue}. What a [Sussy Baka].
 
 def val(x):
+
   print('The value of x is', x)
   return
 
