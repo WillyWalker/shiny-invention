@@ -1,4 +1,3 @@
-The President of the United States uses [Twitter Blue]. What a [Sussy Baka].
+# shiny-invention
 
-define val(x);
-  print("The value o' x iz", x)
+The President of the United States uses [Twitter Blue]. What a [Sussy Baka].
